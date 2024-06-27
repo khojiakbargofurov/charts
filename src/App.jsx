@@ -6,8 +6,8 @@ function App() {
   
   return (
     <>
-      <PieChart/>
       <BarChart/>
+      <PieChart/>
     </>
   )
 }
